@@ -1,7 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
   background-color: black;
-color: rgb(48, 28, 85); }
+color: rgb(89, 8, 240); }
 
 /* Hero Section */
 
@@ -10,7 +10,10 @@ color: rgb(48, 28, 85); }
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
-}
+ 
+    background-image: url("https://tutorialesenpdf.com/wp-content/uploads/2020/04/desarrollo-web.jpg"), url("https://tutorialesenpdf.com/wp-content/uploads/2020/04/desarrollo-web.jpg");
+     
+  }
 
 /* Acerca-de-mi */
 
@@ -19,7 +22,7 @@ color: rgb(48, 28, 85); }
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  color: rgb(48, 28, 85);
+  color: rgb(66, 0, 189);
 }
 
 
@@ -32,14 +35,14 @@ color: rgb(48, 28, 85); }
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  color: rgb(48, 28, 85);
+  color: rgb(0, 87, 39);
 }
 
 /* Contacto */
 
 #Contacto form label {
   font-weight: 700;
-  color: #ffffff;
+  color: #000000;
 }
 
 @media (max-width: 768px) {
